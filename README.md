@@ -64,6 +64,7 @@ Sensitive configuration is **not committed** to GitHub.
 
 Create your own `application.properties` file using the template:
 src/main/resources/application.properties.example
+
 ---
 
 ## 🧪 Testing
